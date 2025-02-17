@@ -17,6 +17,6 @@ export const sidebarItems = [
     }, 
     {   text: "Settings", 
         route: "/settings", 
-        icon: "/src/assets/setting.png"
+        icon: "../../src/assets/setting.png"
     }, 
 ];
